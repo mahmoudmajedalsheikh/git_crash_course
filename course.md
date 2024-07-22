@@ -38,7 +38,7 @@
 
 ## init Project
 
-|Make Public key Command |what command Do|
+| Command |what command Do|
 | ----------- | ----------- |
 |``||
 |``||
@@ -52,9 +52,9 @@
 |``||
 |``||
 
-## init Projec
+## init Project
 
-|Make Public key Command |what command Do|
+|Command |what command Do|
 | ----------- | ----------- |
 |`touch .gitignore`|ignore files and holder write inside it `*.log` => any file have this extend will ignore  second `!.vip` this file will not ignore or `folderName` will ignore it|
 |`git add -f [filename]`|will add if it ignore|
