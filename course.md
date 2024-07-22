@@ -52,7 +52,7 @@
 |``||
 |``||
 
-## init Project
+## Project To GitHub
 
 |Command |what command Do|
 | ----------- | ----------- |
