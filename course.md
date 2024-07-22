@@ -58,9 +58,9 @@
 | ----------- | ----------- |
 |`touch .gitignore`|ignore files and holder write inside it `*.log` => any file have this extend will ignore  second `!.vip` this file will not ignore or `folderName` will ignore it|
 |`git add -f [filename]`|will add if it ignore|
-|``||
-|``||
-|``||
+|`git remote add origin git@github.com:MahmoudMajedMahmoudAlsheikh/git_crash_course.git`||
+|`git push origin main`|make push|
+|`git push -u origin main`|make pull first and second push|
 |``||
 |``||
 |``||
