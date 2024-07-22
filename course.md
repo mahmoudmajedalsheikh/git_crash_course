@@ -40,7 +40,7 @@
 
 | Command |what command Do|
 | ----------- | ----------- |
-|``||
+|`git init`|to make this project git repo and track changes|
 |``||
 |``||
 |``||
