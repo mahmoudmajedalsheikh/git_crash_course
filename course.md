@@ -21,7 +21,7 @@
 |`git config --global user.email`|Tell me = get  The email of global user|
 |`git config --global user.email "email"`|Set The email of global user|
 |`git config --global user.name`|Tell me = get  The name of global user|
-|`git config --global user.name "email"`|Set The name of global user|
+|`git config --global user.name "Name"`|Set The name of global user|
 |`git config -l`|show me all config List|
 |`git config -l --show-origin`|show me where the get take the configuration|
 |`Q`|if work with cmder to exit it|
